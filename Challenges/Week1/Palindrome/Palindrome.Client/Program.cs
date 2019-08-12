@@ -6,7 +6,7 @@ namespace Palindrome.Client
 {
   class Program
   {
-    public static void Main(string[] args)
+    private static void Main(string[] args)
     {
       Console.Write("Enter a word:");
       string str = Console.ReadLine();
