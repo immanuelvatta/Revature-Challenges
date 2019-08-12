@@ -1,0 +1,9 @@
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.deps.json
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.dll
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/bin/Debug/netstandard2.0/Palindrome.Domain.pdb
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csprojAssemblyReference.cache
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.csproj.CoreCompileInputs.cache
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfoInputs.cache
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.AssemblyInfo.cs
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.dll
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Domain/obj/Debug/netstandard2.0/Palindrome.Domain.pdb

@@ -1,0 +1,14 @@
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.deps.json
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.runtimeconfig.json
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.runtimeconfig.dev.json
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.dll
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Client.pdb
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.csprojAssemblyReference.cache
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.csproj.CoreCompileInputs.cache
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.AssemblyInfoInputs.cache
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.AssemblyInfo.cs
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.dll
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.pdb
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Domain.dll
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/bin/Debug/netcoreapp2.2/Palindrome.Domain.pdb
+/Users/immanuel/Desktop/revature/Challenges/Week1/Palindrome/Palindrome.Client/obj/Debug/netcoreapp2.2/Palindrome.Client.csproj.CopyComplete
